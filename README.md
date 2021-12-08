@@ -7,6 +7,6 @@ Built using -
  * Bootstrap
  * PHP
 
-![demo](assets\demo.png)
+![demo](assets/demo.png)
 
 * live site will be published soon!
